@@ -1,0 +1,19 @@
+.card{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25% 25% 0 0;
+  
+}
+
+.container-fluid2{
+width: 280px;
+}
+
+.buttons{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 5%;
+  
+}

@@ -1,0 +1,53 @@
+/* .container-fluid {
+  --bs-gutter-x: 0;
+} */
+
+
+.tableContainer{
+  background: linear-gradient(#141e30, #243b55);
+  height: 100vh; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  }
+.card-title{
+  font-family: Copperplate Gothic Light;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-size: xx-large;
+    background-color: rgb(192, 225, 254);
+    border-radius: 40% 40% 0% 0%;
+  }
+.table{
+  font-family: Candara;
+  margin-left: 7%;
+}
+
+.h3{
+font-family: Copperplate Gothic Light;
+
+}
+
+.bg{
+  font-size: large;
+  font-weight: 700;
+}
+
+.eheading{
+    font-size: 200%;
+    
+  }
+  .popover {
+    width: 450px
+  }
+.buttonse{
+  display: flex;
+  gap: 4%;
+
+}
+.card-body1{
+  background-color: rgb(255, 255, 255);
+}

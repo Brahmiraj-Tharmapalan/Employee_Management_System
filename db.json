@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Brahmiraj Tharmapalan",
+      "email": "brahmirajt@gmail.com",
+      "password": "dfg",
+      "profession": "dfg",
+      "phone": "+94775240043",
+      "id": 2
+    },
+    {
+      "name": "Brahmiraj Tharmapalan",
+      "email": "brahmirajt@gmail.com",
+      "password": "dfg",
+      "profession": "dfg",
+      "phone": "+94775240043",
+      "id": 3
+    },
+    {
+      "name": "poi",
+      "email": "poi@gmail.com",
+      "password": "qwerty",
+      "profession": "dfyhj",
+      "phone": "hj",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

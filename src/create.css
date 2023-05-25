@@ -1,0 +1,26 @@
+.offset{
+    background: linear-gradient(#141e30, #243b55);
+    height: 1000vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    }
+.form-group1{
+    font-family: Candara;
+    padding-left: 10%;
+    }
+.card-body1{
+    display: flex;
+    align-items: center;
+padding-right: 5%;
+}
+.container-fluid1{
+width: 250px;
+}
+
+.form-group2{
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+}
